@@ -2,6 +2,8 @@ body{
     height: vh100;
     background-image: url('imagenes/imagendeunbar.jpg');
     margin: 0px;    
+
+    
 }
 nav{
     background-color: rgb(58, 58, 58);
@@ -25,7 +27,7 @@ nav{
     text-shadow: 2px 2px 0 #000,
                  2px 2px 0 #000,
                  2px 2px 0 #000,
-                 2px 2px 0 #000;
+                 2px 2px 0 #000;                                        
 }
 h4{
     color: rgb(231, 247, 11);
